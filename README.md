@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![icons8-github-16](https://user-images.githubusercontent.com/75996200/161057110-610a52ae-82cd-4e2a-a21f-6ed21d9e4866.png)
 
 
-![github-header-image] ![icons8-javascript-16](https://user-images.githubusercontent.com/75996200/161056986-2feb2403-c0d6-4169-b237-fc4037b45b6a.png) (https://user-images.githubusercontent.com/75996200/158025161-58c32531-99e6-45d0-801e-0f500a86f0b4.png)
+![github-header-image]  (https://user-images.githubusercontent.com/75996200/158025161-58c32531-99e6-45d0-801e-0f500a86f0b4.png)
