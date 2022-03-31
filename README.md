@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![icons8-github-16](https://user-images.githubusercontent.com/75996200/161057110-610a52ae-82cd-4e2a-a21f-6ed21d9e4866.png)
 
 
-![github-header-image]  (https://user-images.githubusercontent.com/75996200/158025161-58c32531-99e6-45d0-801e-0f500a86f0b4.png)
+![github-header-image](https://user-images.githubusercontent.com/75996200/158025161-58c32531-99e6-45d0-801e-0f500a86f0b4.png)
