@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![icons8-figma-48](https://user-images.githubusercontent.com/75996200/161057781-4631806e-6eba-4ff7-8cf6-82432d00fe83.png)
+-->
+![icons8-figma-48](https://user-images.githubusercontent.com/75996200/161057781-4631806e-6eba-4ff7-8cf6-82432d00fe83.png)
 
 
 
