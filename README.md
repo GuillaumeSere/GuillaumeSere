@@ -24,7 +24,8 @@
 ![png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail](https://github.com/GuillaumeSere/GuillaumeSere/assets/75996200/64b6ccc3-37c5-4b17-b3fe-bfadea4db2c4)
 
 
-![kisspng-redux-react-javascript-angular-cascading-style-she-github-5ab8a3eea4d727 7909830515220500306752](https://github.com/GuillaumeSere/GuillaumeSere/assets/75996200/a511c0b2-f5f4-403d-b42d-4b661499a841)
+
+![799px-MongoDB_Logo](https://github.com/GuillaumeSere/GuillaumeSere/assets/75996200/e2fa520f-935d-4343-8ec1-6bb20850d1ff)
 
 
 ![icons8-sass-48](https://github.com/GuillaumeSere/GuillaumeSere/assets/75996200/c4bccf3f-5825-41d7-9966-a2f3c9f4d773)
